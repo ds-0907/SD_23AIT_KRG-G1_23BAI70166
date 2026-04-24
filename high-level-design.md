@@ -1,8 +1,11 @@
 # High Level Design
 
 ## System Architecture Diagram
-<img width="7498" height="4816" alt="System Architecture Diagram" src="https://github.com/user-attachments/assets/ef8383c1-7375-4685-8d8d-e9e9c39ecc2a" />
+![Architecture](<img width="7498" height="4816" alt="System Architecture Diagram" src="https://github.com/user-attachments/assets/ef8383c1-7375-4685-8d8d-e9e9c39ecc2a" />)
 
+## End-to-End Ride Flow
+
+![Sequence](<img width="8192" height="4742" alt="Sequence Diagram" src="https://github.com/user-attachments/assets/9ac4ac4b-d3db-461a-98d1-c5ec9a432139" />)
 
 ---
 
