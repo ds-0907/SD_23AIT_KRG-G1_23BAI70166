@@ -96,3 +96,6 @@ Methods:
 
 - Use Redis GEOHASH
 - Partition by region for scalability
+
+## Ride State Machine
+<img width="3707" height="4795" alt="Untitled diagram-2026-04-24-103629" src="https://github.com/user-attachments/assets/a4b1bf75-bedd-4fe8-be4d-96c0bd3a3554" />
