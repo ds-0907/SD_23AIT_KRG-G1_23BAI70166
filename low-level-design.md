@@ -98,4 +98,6 @@ Methods:
 - Partition by region for scalability
 
 ## Ride State Machine
-<img width="3707" height="4795" alt="Untitled diagram-2026-04-24-103629" src="https://github.com/user-attachments/assets/a4b1bf75-bedd-4fe8-be4d-96c0bd3a3554" />
+<img width="3707" height="4795" alt="Untitled diagram-2026-04-24-104248" src="https://github.com/user-attachments/assets/f87d18ca-6bd6-4646-82ce-a0b2263ea358" />
+
+
